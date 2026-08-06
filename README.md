@@ -1,2 +1,70 @@
-# gfg-solutions
-A curated collection of GeeksforGeeks solutions in C++ with clean code, explanations, and organized topic-wise.
+# GeeksforGeeks DSA Solutions
+
+Welcome to my GeeksforGeeks DSA Solutions repository.
+
+This repository contains my solutions to GeeksforGeeks problems solved in **C++**. I am solving problems in a structured order from **Beginner → Advanced** to strengthen my Data Structures and Algorithms skills.
+
+---
+
+## 👨‍💻 Author
+
+**Ankit Gupta**
+
+- Language: C++
+- Platform: GeeksforGeeks
+
+---
+
+## 📊 Progress
+
+| Topic | Solved |
+|--------|-------:|
+| Arrays | 1 |
+| Strings | 0 |
+| Searching | 0 |
+| Sorting | 0 |
+| Hashing | 0 |
+| Recursion | 0 |
+| Linked List | 0 |
+| Stack | 0 |
+| Queue | 0 |
+| Trees | 0 |
+| Graph | 0 |
+| Dynamic Programming | 0 |
+
+**Total Problems Solved:** 1
+
+---
+
+## 📂 Folder Structure
+
+```text
+gfg-solutions
+│
+├── README.md
+├── Arrays
+│   └── Reverse_Array.cpp
+├── Strings
+├── Searching
+├── Sorting
+├── Hashing
+├── Recursion
+├── Linked List
+├── Stack
+├── Queue
+├── Trees
+├── Graph
+└── Dynamic Programming
+```
+
+---
+
+## ✅ Solved Problems
+
+| # | Problem | Topic | Difficulty |
+|---|---------|-------|------------|
+| 1 | Reverse an Array | Arrays | Easy |
+
+---
+
+⭐ This repository is updated regularly as I solve more GeeksforGeeks problems.
