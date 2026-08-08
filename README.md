@@ -19,7 +19,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 | Topic | Solved |
 |-------|-------:|
-| Arrays | 2 |
+| Arrays | 3 |
 | Strings | 0 |
 | Searching | 0 |
 | Sorting | 0 |
@@ -32,7 +32,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph | 0 |
 | Dynamic Programming | 0 |
 
-**Total Problems Solved:** **2**
+**Total Problems Solved:** **3**
 
 ---
 
@@ -44,7 +44,8 @@ gfg-solutions
 ├── README.md
 ├── Arrays
 │   ├── Reverse_Array.cpp
-│   └── Max_Element.cpp
+│   ├── Max_Element.cpp
+│   └── Second_Largest.cpp
 ├── Strings
 ├── Searching
 ├── Sorting
@@ -66,6 +67,7 @@ gfg-solutions
 |---|---------|-------|------------|
 | 1 | Reverse an Array | Arrays | Easy |
 | 2 | Max Element | Arrays | Easy |
+| 3 | Second Largest | Arrays | Easy |
 
 ---
 
