@@ -17,22 +17,22 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 ## 📊 Progress
 
-| Topic | Solved |
-|-------|-------:|
-| Arrays | 3 |
-| Strings | 0 |
-| Searching | 0 |
-| Sorting | 0 |
-| Hashing | 0 |
-| Recursion | 0 |
-| Linked List | 0 |
-| Stack | 0 |
-| Queue | 0 |
-| Trees | 0 |
-| Graph | 0 |
-| Dynamic Programming | 0 |
+| Topic               | Solved |
+| ------------------- | -----: |
+| Arrays              |      4 |
+| Strings             |      0 |
+| Searching           |      0 |
+| Sorting             |      0 |
+| Hashing             |      0 |
+| Recursion           |      0 |
+| Linked List         |      0 |
+| Stack               |      0 |
+| Queue               |      0 |
+| Trees               |      0 |
+| Graph               |      0 |
+| Dynamic Programming |      0 |
 
-**Total Problems Solved:** **3**
+**Total Problems Solved:** **4**
 
 ---
 
@@ -45,7 +45,8 @@ gfg-solutions
 ├── Arrays
 │   ├── Reverse_Array.cpp
 │   ├── Max_Element.cpp
-│   └── Second_Largest.cpp
+│   ├── Second_Largest.cpp
+│   └── Move_Zeros_To_End.cpp
 ├── Strings
 ├── Searching
 ├── Sorting
@@ -63,11 +64,12 @@ gfg-solutions
 
 ## ✅ Solved Problems
 
-| # | Problem | Topic | Difficulty |
-|---|---------|-------|------------|
-| 1 | Reverse an Array | Arrays | Easy |
-| 2 | Max Element | Arrays | Easy |
-| 3 | Second Largest | Arrays | Easy |
+| # | Problem                | Topic  | Difficulty |
+| - | ---------------------- | ------ | ---------- |
+| 1 | Reverse an Array       | Arrays | Easy       |
+| 2 | Max Element            | Arrays | Easy       |
+| 3 | Second Largest         | Arrays | Easy       |
+| 4 | Move All Zeroes to End | Arrays | Easy       |
 
 ---
 
