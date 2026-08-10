@@ -19,7 +19,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 | Topic               | Solved |
 | ------------------- | -----: |
-| Arrays              |      4 |
+| Arrays              |      5 |
 | Strings             |      0 |
 | Searching           |      0 |
 | Sorting             |      0 |
@@ -32,7 +32,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved:** **4**
+**Total Problems Solved:** **5**
 
 ---
 
@@ -46,7 +46,8 @@ gfg-solutions
 │   ├── Reverse_Array.cpp
 │   ├── Max_Element.cpp
 │   ├── Second_Largest.cpp
-│   └── Move_Zeros_To_End.cpp
+│   ├── Move_Zeros_To_End.cpp
+│   └── Find_Frequency.cpp
 ├── Strings
 ├── Searching
 ├── Sorting
@@ -70,6 +71,7 @@ gfg-solutions
 | 2 | Max Element            | Arrays | Easy       |
 | 3 | Second Largest         | Arrays | Easy       |
 | 4 | Move All Zeroes to End | Arrays | Easy       |
+| 5 | Find the Frequency     | Arrays | Easy       |
 
 ---
 
