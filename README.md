@@ -19,7 +19,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 | Topic               | Solved |
 | ------------------- | -----: |
-| Arrays              |      7 |
+| Arrays              |      8 |
 | Strings             |      0 |
 | Searching           |      0 |
 | Sorting             |      0 |
@@ -32,7 +32,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved:** **7**
+**Total Problems Solved:** **8**
 
 ---
 
@@ -49,7 +49,8 @@ gfg-solutions
 │   ├── Move_Zeros_To_End.cpp
 │   ├── Find_Frequency.cpp
 │   ├── Missing_Number.cpp
-│   └── Count_Smaller_Elements.cpp
+│   ├── Count_Smaller_Elements.cpp
+│   └── Check_Sorted_Array.cpp
 ├── Strings
 ├── Searching
 ├── Sorting
@@ -67,15 +68,16 @@ gfg-solutions
 
 ## ✅ Solved Problems
 
-| # | Problem                  | Topic  | Difficulty |
-| - | ------------------------ | ------ | ---------- |
-| 1 | Reverse an Array         | Arrays | Easy       |
-| 2 | Max Element              | Arrays | Easy       |
-| 3 | Second Largest           | Arrays | Easy       |
-| 4 | Move All Zeroes to End   | Arrays | Easy       |
-| 5 | Find the Frequency       | Arrays | Easy       |
-| 6 | Missing Number           | Arrays | Easy       |
-| 7 | Count of Smaller Elements| Arrays | Easy       |
+| # | Problem                   | Topic  | Difficulty |
+| - | ------------------------- | ------ | ---------- |
+| 1 | Reverse an Array          | Arrays | Easy       |
+| 2 | Max Element               | Arrays | Easy       |
+| 3 | Second Largest            | Arrays | Easy       |
+| 4 | Move All Zeroes to End    | Arrays | Easy       |
+| 5 | Find the Frequency        | Arrays | Easy       |
+| 6 | Missing Number            | Arrays | Easy       |
+| 7 | Count of Smaller Elements | Arrays | Easy       |
+| 8 | Check if an Array is Sorted | Arrays | Easy       |
 
 ---
 
