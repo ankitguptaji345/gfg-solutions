@@ -19,7 +19,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 | Topic               | Solved |
 | ------------------- | -----: |
-| Arrays              |      9 |
+| Arrays              |     10 |
 | Strings             |      0 |
 | Searching           |      0 |
 | Sorting             |      0 |
@@ -32,7 +32,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved:** **9**
+**Total Problems Solved:** **10**
 
 ---
 
@@ -52,7 +52,8 @@ gfg-solutions
 │   ├── Missing_Number.cpp
 │   ├── Count_Smaller_Elements.cpp
 │   ├── Check_Sorted_Array.cpp
-│   └── Search_Element.cpp
+│   ├── Search_Element.cpp
+│   └── Remove_Duplicates_Sorted_Array.cpp
 │
 ├── Strings
 ├── Searching
@@ -82,6 +83,7 @@ gfg-solutions
 | 7 | Count of Smaller Elements | Arrays | Easy |
 | 8 | Check if an Array is Sorted | Arrays | Easy |
 | 9 | Search an Element in an Array | Arrays | Easy |
+| 10 | Remove Duplicates from Sorted Array | Arrays | Easy |
 
 ---
 
@@ -93,8 +95,10 @@ Currently focusing on **Arrays** and building strong fundamentals in:
 - Searching
 - Comparisons
 - Indexing
+- Duplicate handling
 - Basic problem-solving patterns
 - Time and space complexity
+- C++ vectors and `push_back()`
 
 ---
 
