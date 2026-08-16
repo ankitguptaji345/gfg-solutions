@@ -19,7 +19,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 | Topic               | Solved |
 | ------------------- | -----: |
-| Arrays              |     10 |
+| Arrays              |     11 |
 | Strings             |      0 |
 | Searching           |      0 |
 | Sorting             |      0 |
@@ -32,7 +32,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved:** **10**
+**Total Problems Solved:** **11**
 
 ---
 
@@ -53,7 +53,8 @@ gfg-solutions
 │   ├── Count_Smaller_Elements.cpp
 │   ├── Check_Sorted_Array.cpp
 │   ├── Search_Element.cpp
-│   └── Remove_Duplicates_Sorted_Array.cpp
+│   ├── Remove_Duplicates_Sorted_Array.cpp
+│   └── Array_Leaders.cpp
 │
 ├── Strings
 ├── Searching
@@ -66,40 +67,3 @@ gfg-solutions
 ├── Trees
 ├── Graph
 └── Dynamic Programming
-```
-
----
-
-## ✅ Solved Problems
-
-| # | Problem | Topic | Difficulty |
-| - | ------- | ----- | ---------- |
-| 1 | Reverse an Array | Arrays | Easy |
-| 2 | Max Element | Arrays | Easy |
-| 3 | Second Largest | Arrays | Easy |
-| 4 | Move All Zeroes to End | Arrays | Easy |
-| 5 | Find the Frequency | Arrays | Easy |
-| 6 | Missing Number | Arrays | Easy |
-| 7 | Count of Smaller Elements | Arrays | Easy |
-| 8 | Check if an Array is Sorted | Arrays | Easy |
-| 9 | Search an Element in an Array | Arrays | Easy |
-| 10 | Remove Duplicates from Sorted Array | Arrays | Easy |
-
----
-
-## 📈 Learning Progress
-
-Currently focusing on **Arrays** and building strong fundamentals in:
-
-- Array traversal
-- Searching
-- Comparisons
-- Indexing
-- Duplicate handling
-- Basic problem-solving patterns
-- Time and space complexity
-- C++ vectors and `push_back()`
-
----
-
-⭐ This repository is updated regularly as I solve more GeeksforGeeks problems.
