@@ -19,7 +19,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 | Topic               | Solved |
 | ------------------- | -----: |
-| Arrays              |     11 |
+| Arrays              |     12 |
 | Strings             |      0 |
 | Searching           |      0 |
 | Sorting             |      0 |
@@ -32,7 +32,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved:** **11**
+**Total Problems Solved:** **12**
 
 ---
 
@@ -54,7 +54,8 @@ gfg-solutions
 │   ├── Check_Sorted_Array.cpp
 │   ├── Search_Element.cpp
 │   ├── Remove_Duplicates_Sorted_Array.cpp
-│   └── Array_Leaders.cpp
+│   ├── Array_Leaders.cpp
+│   └── Union_of_Two_Arrays.cpp
 │
 ├── Strings
 ├── Searching
