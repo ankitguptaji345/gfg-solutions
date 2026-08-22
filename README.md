@@ -17,22 +17,22 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 ## 📊 Progress
 
-| Topic                | Solved |
-| -------------------- | -----: |
-| Arrays               |     16 |
-| Strings              |      0 |
-| Searching            |      0 |
-| Sorting              |      0 |
-| Hashing              |      0 |
-| Recursion            |      0 |
-| Linked List          |      0 |
-| Stack                |      0 |
-| Queue                |      0 |
-| Trees                |      0 |
-| Graph                |      0 |
-| Dynamic Programming  |      0 |
+| Topic               | Solved |
+| ------------------- | -----: |
+| Arrays              |     17 |
+| Strings             |      0 |
+| Searching           |      0 |
+| Sorting             |      0 |
+| Hashing             |      0 |
+| Recursion           |      0 |
+| Linked List         |      0 |
+| Stack               |      0 |
+| Queue               |      0 |
+| Trees               |      0 |
+| Graph               |      0 |
+| Dynamic Programming |      0 |
 
-**Total Problems Solved: 16**
+**Total Problems Solved: 17**
 
 ---
 
@@ -40,6 +40,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 ```text
 gfg-solutions
+
 │
 ├── README.md
 │
@@ -59,7 +60,8 @@ gfg-solutions
 │   ├── Rotate_Array_by_N_Elements.cpp
 │   ├── Rotate_Array_By_One.cpp
 │   ├── Find_Unique_Number.cpp
-│   └── Pair_Sum_in_Sorted_Rotated_Array.cpp
+│   ├── Pair_Sum_in_Sorted_Rotated_Array.cpp
+│   └── Majority_Element.cpp
 │
 ├── Strings
 ├── Searching
