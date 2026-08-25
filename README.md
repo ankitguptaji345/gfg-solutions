@@ -19,7 +19,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 | Topic               | Solved |
 | ------------------- | -----: |
-| Arrays              |     19 |
+| Arrays              |     20 |
 | Strings             |      0 |
 | Searching           |      0 |
 | Sorting             |      0 |
@@ -32,7 +32,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved: 19**
+**Total Problems Solved: 20**
 
 ---
 
@@ -62,7 +62,8 @@ gfg-solutions
 │   ├── Pair_Sum_in_Sorted_Rotated_Array.cpp
 │   ├── Majority_Element.cpp
 │   ├── Stock_Buy_And_Sell.cpp
-│   └── Kadanes_Algorithm.cpp
+│   ├── Kadanes_Algorithm.cpp
+│   └── Merge_Two_Sorted_Arrays.cpp
 │
 ├── Strings
 ├── Searching
