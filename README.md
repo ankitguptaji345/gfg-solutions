@@ -10,8 +10,8 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 **Ankit Gupta**
 
-- Language: C++
-- Platform: GeeksforGeeks
+* Language: C++
+* Platform: GeeksforGeeks
 
 ---
 
@@ -19,7 +19,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 | Topic               | Solved |
 | ------------------- | -----: |
-| Arrays              |     21 |
+| Arrays              |     22 |
 | Strings             |      0 |
 | Searching           |      0 |
 | Sorting             |      0 |
@@ -32,7 +32,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved: 21**
+**Total Problems Solved: 22**
 
 ---
 
@@ -40,8 +40,10 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 ```text
 gfg-solutions
+
 │
 ├── README.md
+
 │
 ├── Arrays
 │   ├── Reverse_Array.cpp
@@ -64,8 +66,10 @@ gfg-solutions
 │   ├── Stock_Buy_And_Sell.cpp
 │   ├── Kadanes_Algorithm.cpp
 │   ├── Merge_Two_Sorted_Arrays.cpp
-│   └── Find_Duplicates.cpp
+│   ├── Find_Duplicates.cpp
+│   └── Find_Smallest_And_Second_Smallest.cpp
 │
+
 ├── Strings
 ├── Searching
 ├── Sorting
@@ -77,3 +81,4 @@ gfg-solutions
 ├── Trees
 ├── Graph
 └── Dynamic Programming
+```
