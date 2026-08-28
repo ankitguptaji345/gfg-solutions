@@ -18,8 +18,8 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 ## 📊 Progress
 
 | Topic               | Solved |
-| ------------------- | -----: |
-| Arrays              |     22 |
+|---------------------|-------:|
+| Arrays              |     23 |
 | Strings             |      0 |
 | Searching           |      0 |
 | Sorting             |      0 |
@@ -32,7 +32,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved: 22**
+**Total Problems Solved: 23**
 
 ---
 
@@ -43,7 +43,6 @@ gfg-solutions
 
 │
 ├── README.md
-
 │
 ├── Arrays
 │   ├── Reverse_Array.cpp
@@ -67,9 +66,9 @@ gfg-solutions
 │   ├── Kadanes_Algorithm.cpp
 │   ├── Merge_Two_Sorted_Arrays.cpp
 │   ├── Find_Duplicates.cpp
-│   └── Find_Smallest_And_Second_Smallest.cpp
+│   ├── Find_Smallest_And_Second_Smallest.cpp
+│   └── Find_Unique_Pair.cpp
 │
-
 ├── Strings
 ├── Searching
 ├── Sorting
@@ -81,4 +80,3 @@ gfg-solutions
 ├── Trees
 ├── Graph
 └── Dynamic Programming
-```
