@@ -11,6 +11,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 **Ankit Gupta**
 
 * Language: C++
+
 * Platform: GeeksforGeeks
 
 ---
@@ -19,7 +20,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 | Topic               | Solved |
 |---------------------|-------:|
-| Arrays              |     23 |
+| Arrays              |     24 |
 | Strings             |      0 |
 | Searching           |      0 |
 | Sorting             |      0 |
@@ -32,7 +33,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved: 23**
+**Total Problems Solved: 24**
 
 ---
 
@@ -42,41 +43,81 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 gfg-solutions
 
 │
+
 ├── README.md
+
 │
+
 ├── Arrays
+
 │   ├── Reverse_Array.cpp
+
 │   ├── Max_Element.cpp
+
 │   ├── Second_Largest.cpp
+
 │   ├── Move_Zeros_To_End.cpp
+
 │   ├── Find_Frequency.cpp
+
 │   ├── Missing_Number.cpp
+
 │   ├── Count_Smaller_Elements.cpp
+
 │   ├── Check_Sorted_Array.cpp
+
 │   ├── Search_Element.cpp
+
 │   ├── Remove_Duplicates_Sorted_Array.cpp
+
 │   ├── Array_Leaders.cpp
+
 │   ├── Union_of_Two_Arrays.cpp
+
 │   ├── Rotate_Array_by_N_Elements.cpp
+
 │   ├── Rotate_Array_By_One.cpp
+
 │   ├── Find_Unique_Number.cpp
+
 │   ├── Pair_Sum_in_Sorted_Rotated_Array.cpp
+
 │   ├── Majority_Element.cpp
+
 │   ├── Stock_Buy_And_Sell.cpp
+
 │   ├── Kadanes_Algorithm.cpp
+
 │   ├── Merge_Two_Sorted_Arrays.cpp
+
 │   ├── Find_Duplicates.cpp
+
 │   ├── Find_Smallest_And_Second_Smallest.cpp
-│   └── Find_Unique_Pair.cpp
+
+│   ├── Find_Unique_Pair.cpp
+
+│   └── Rearrange_Array_Alternately.cpp
+
 │
+
 ├── Strings
+
 ├── Searching
+
 ├── Sorting
+
 ├── Hashing
+
 ├── Recursion
+
 ├── Linked List
+
 ├── Stack
+
 ├── Queue
+
 ├── Trees
+
 ├── Graph
+
 └── Dynamic Programming
