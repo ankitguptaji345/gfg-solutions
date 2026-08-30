@@ -20,7 +20,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 | Topic               | Solved |
 |---------------------|-------:|
-| Arrays              |     24 |
+| Arrays              |     25 |
 | Strings             |      0 |
 | Searching           |      0 |
 | Sorting             |      0 |
@@ -33,7 +33,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved: 24**
+**Total Problems Solved: 25**
 
 ---
 
@@ -96,7 +96,9 @@ gfg-solutions
 
 │   ├── Find_Unique_Pair.cpp
 
-│   └── Rearrange_Array_Alternately.cpp
+│   ├── Rearrange_Array_Alternately.cpp
+
+│   ├── Alternate_Positive_Negative.cpp
 
 │
 
