@@ -20,7 +20,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 | Topic               | Solved |
 |---------------------|-------:|
-| Arrays              |     25 |
+| Arrays              |     26 |
 | Strings             |      0 |
 | Searching           |      0 |
 | Sorting             |      0 |
@@ -33,7 +33,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved: 25**
+**Total Problems Solved: 26**
 
 ---
 
@@ -99,6 +99,8 @@ gfg-solutions
 │   ├── Rearrange_Array_Alternately.cpp
 
 │   ├── Alternate_Positive_Negative.cpp
+
+│   └── Counting_Elements_In_Two_Arrays.cpp
 
 │
 
