@@ -20,7 +20,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 | Topic               | Solved |
 |---------------------|-------:|
-| Arrays              |     27 |
+| Arrays              |     28 |
 | Strings             |      0 |
 | Searching           |      0 |
 | Sorting             |      0 |
@@ -33,7 +33,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved: 27**
+**Total Problems Solved: 28**
 
 ---
 
@@ -103,6 +103,8 @@ gfg-solutions
 │   └── Counting_Elements_In_Two_Arrays.cpp
 
 │   └── Missing_And_Repeating.cpp
+
+│   └── Product_Array_Puzzle.cpp
 
 │
 
