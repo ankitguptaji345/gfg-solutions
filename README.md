@@ -20,7 +20,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 
 | Topic               | Solved |
 |---------------------|-------:|
-| Arrays              |     28 |
+| Arrays              |     29 |
 | Strings             |      0 |
 | Searching           |      0 |
 | Sorting             |      0 |
@@ -33,7 +33,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved: 28**
+**Total Problems Solved: 29**
 
 ---
 
@@ -105,6 +105,8 @@ gfg-solutions
 │   └── Missing_And_Repeating.cpp
 
 │   └── Product_Array_Puzzle.cpp
+
+│   ├── Maximum_Product_Subarray.cpp
 
 │
 
