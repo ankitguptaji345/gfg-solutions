@@ -21,7 +21,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Topic               | Solved |
 |---------------------|-------:|
 | Arrays              |     30 |
-| Strings             |      0 |
+| Strings             |      1 |
 | Searching           |      0 |
 | Sorting             |      0 |
 | Hashing             |      0 |
@@ -33,7 +33,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved : 30**
+**Total Problems Solved : 31**
 
 ---
 
@@ -100,19 +100,21 @@ gfg-solutions
 
 │   ├── Alternate_Positive_Negative.cpp
 
-│   └── Counting_Elements_In_Two_Arrays.cpp
+│   ├── Reverse_Array.cppCounting_Elements_In_Two_Arrays.cpp
 
-│   └── Missing_And_Repeating.cpp
+│   ├── Reverse_Array.cppMissing_And_Repeating.cpp
 
-│   └── Product_Array_Puzzle.cpp
+│   ├── Reverse_Array.cppProduct_Array_Puzzle.cpp
 
 │   ├── Maximum_Product_Subarray.cpp
 
-│   └── Trapping_Rain_Water.cpp
+│   ├── Reverse_Array.cppTrapping_Rain_Water.cpp
 
 │
 
 ├── Strings
+
+│   ├── Reverse_String.cpp
 
 ├── Searching
 
