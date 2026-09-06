@@ -21,7 +21,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Topic               | Solved |
 |---------------------|-------:|
 | Arrays              |     30 |
-| Strings             |      1 |
+| Strings             |      2 |
 | Searching           |      0 |
 | Sorting             |      0 |
 | Hashing             |      0 |
@@ -33,7 +33,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved : 31**
+**Total Problems Solved : 32**
 
 ---
 
@@ -108,13 +108,15 @@ gfg-solutions
 
 │   ├── Maximum_Product_Subarray.cpp
 
-│   ├── Reverse_Array.cppTrapping_Rain_Water.cpp
+│   ├── Trapping_Rain_Water.cpp
 
 │
 
 ├── Strings
 
 │   ├── Reverse_String.cpp
+
+│   ├── Palindrome_String.cpp
 
 ├── Searching
 
