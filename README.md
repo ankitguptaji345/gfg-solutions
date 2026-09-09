@@ -21,7 +21,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Topic               | Solved |
 |---------------------|-------:|
 | Arrays              |     30 |
-| Strings             |      4 |
+| Strings             |      5 |
 | Searching           |      0 |
 | Sorting             |      0 |
 | Hashing             |      0 |
@@ -33,7 +33,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved : 34**
+**Total Problems Solved : 35**
 
 ---
 
@@ -121,6 +121,8 @@ gfg-solutions
 │   ├── Remove_Vowels.cpp
 
 │   ├── Anagram.cpp
+
+│   ├── First_Non_Repeating_Character.cpp
 
 ├── Searching
 
