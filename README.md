@@ -21,7 +21,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Topic               | Solved |
 |---------------------|-------:|
 | Arrays              |     30 |
-| Strings             |      6 |
+| Strings             |      7 |
 | Searching           |      0 |
 | Sorting             |      0 |
 | Hashing             |      0 |
@@ -33,7 +33,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved : 36**
+**Total Problems Solved : 37**
 
 ---
 
@@ -125,6 +125,8 @@ gfg-solutions
 │   ├── First_Non_Repeating_Character.cpp
 
 │   ├── Check_String_Rotated_By_Two_Places.cpp
+
+│   ├── Repeated_Character.cpp
 
 ├── Searching
 
