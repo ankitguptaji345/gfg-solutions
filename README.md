@@ -21,7 +21,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Topic               | Solved |
 |---------------------|-------:|
 | Arrays              |     30 |
-| Strings             |      8 |
+| Strings             |      9 |
 | Searching           |      0 |
 | Sorting             |      0 |
 | Hashing             |      0 |
@@ -33,7 +33,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved : 38**
+**Total Problems Solved : 39**
 
 ---
 
@@ -129,6 +129,8 @@ gfg-solutions
 │   ├── Repeated_Character.cpp
 
 │   ├── Smallest_And_Largest.cpp
+
+│   ├── Compress_String.cpp
 
 ├── Searching
 
