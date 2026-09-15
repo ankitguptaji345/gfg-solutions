@@ -134,7 +134,7 @@ gfg-solutions
 
 │   ├── Search_A_Character_In_A_String.cpp
 
-│   ├── Strings/Count_Words_In_A_String.cpp
+│   ├── Count_Words_In_A_String.cpp
 
 ├── Searching
 
