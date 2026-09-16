@@ -21,7 +21,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Topic               | Solved |
 |---------------------|-------:|
 | Arrays              |     30 |
-| Strings             |     11 |
+| Strings             |     12 |
 | Searching           |      0 |
 | Sorting             |      0 |
 | Hashing             |      0 |
@@ -33,7 +33,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved : 41**
+**Total Problems Solved : 42**
 
 ---
 
@@ -135,6 +135,8 @@ gfg-solutions
 │   ├── Search_A_Character_In_A_String.cpp
 
 │   ├── Count_Words_In_A_String.cpp
+
+│   ├── Minimum_Indexed_Character.cpp
 
 ├── Searching
 
