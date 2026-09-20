@@ -21,7 +21,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Topic               | Solved |
 |---------------------|-------:|
 | Arrays              |     30 |
-| Strings             |     15 |
+| Strings             |     16 |
 | Searching           |      0 |
 | Sorting             |      0 |
 | Hashing             |      0 |
@@ -33,7 +33,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved : 45**
+**Total Problems Solved : 46**
 
 ---
 
@@ -143,6 +143,8 @@ gfg-solutions
 │   ├── Remove_Duplicates_From_String.cpp
 
 │   ├── Remove_All_Adjacent_Duplicates.cpp
+
+│   ├── Maximum_Occurring_Character.cpp
 
 ├── Searching
 
