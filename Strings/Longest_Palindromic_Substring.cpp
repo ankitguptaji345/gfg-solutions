@@ -54,7 +54,6 @@ class Solution {
                 right++;
             }
         }
-
         return s.substr(start, maxLen);
     }
 };
