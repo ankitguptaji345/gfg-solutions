@@ -21,7 +21,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Topic               | Solved |
 |---------------------|-------:|
 | Arrays              |     30 |
-| Strings             |     19 |
+| Strings             |     20 |
 | Searching           |      0 |
 | Sorting             |      0 |
 | Hashing             |      0 |
@@ -33,7 +33,7 @@ This repository contains my solutions to GeeksforGeeks problems solved in **C++*
 | Graph               |      0 |
 | Dynamic Programming |      0 |
 
-**Total Problems Solved : 49**
+**Total Problems Solved : 50**
 
 ---
 
@@ -151,6 +151,8 @@ gfg-solutions
 │   ├── Longest_Common_Substring.cpp
 
 │   ├──  Longest_Palindromic_Substring.cpp
+
+│   ├──  Interleaved_Strings.cpp
 
 ├── Searching
 
